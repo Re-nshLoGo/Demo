@@ -8,3 +8,4 @@ def group_anagrams(a):
     return dfdict.values()
 words = ["tea", "eat", "bat", "ate", "arc", "car"]
 print(group_anagrams(words))
+# Anagram 
